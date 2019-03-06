@@ -1,2 +1,2 @@
-# SMD-Documentation
-Documentation for SMD-Python
+# Initial page
+
